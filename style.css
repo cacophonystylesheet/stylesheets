@@ -585,14 +585,14 @@ table.box2 {
 
 #logo {
   box-sizing: content-box;
-  height: 42px;
+  height: 70px;
   padding: 24px 8px 16px;
-  width: 200px;
+  width: 500px;
 }
 
 #logo a,
 #extra5 {
-  background: url('/static/styles/postmod/images/red-postmodern.png') right no-repeat;
+  background: url('../assets/logo/logo-sprite-dark.png') right no-repeat;
 }
 
 #logo>a {
