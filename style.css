@@ -587,16 +587,16 @@ table.box2 {
   box-sizing: content-box;
   height: 40px;
   padding: 24px 8px 16px;
-  width: 398px;
+  width: 198px;
 }
 
 #logo a,
 #extra5 {
-  background: url('https://redacted.ch/static/styles/assets/logo/logo-sprite-dark.png') right no-repeat;
+  background: url('/static/styles/assets/logo/logo-sprite-dark.png') right no-repeat;
 }
 
 #logo>a {
-  background-size: 398px;
+  background-size: 198px;
   display: block;
   height: 100%;
   margin-top: 0;
