@@ -585,9 +585,9 @@ table.box2 {
 
 #logo {
   box-sizing: content-box;
-  height: 70px;
+  height: 40px;
   padding: 24px 8px 16px;
-  width: 500px;
+  width: 398px;
 }
 
 #logo a,
@@ -596,7 +596,7 @@ table.box2 {
 }
 
 #logo>a {
-  background-size: 500px;
+  background-size: 398px;
   display: block;
   height: 100%;
   margin-top: 0;
