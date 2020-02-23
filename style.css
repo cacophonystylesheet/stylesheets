@@ -592,7 +592,7 @@ table.box2 {
 
 #logo a,
 #extra5 {
-  background: url('/static/styles/assets/logo/logo-sprite-dark.png') right no-repeat;
+  background: url('https://redacted.ch/static/styles/assets/logo/logo-sprite-dark.png') right no-repeat;
 }
 
 #logo>a {
