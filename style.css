@@ -1071,11 +1071,11 @@ table.box2 {
 }
 
 .show_torrents>a:after {
-    content: "â–¶";
+    content: ">";
 }
 
 .hide_torrents>a:after {
-  content: "â–¼";
+  content: "v";
 }
 
 .group_torrent .edition_info {
